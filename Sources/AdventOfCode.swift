@@ -1,6 +1,8 @@
 import ArgumentParser
 
-let days: [DailySolvable] = []
+let days: [DailySolvable] = [
+    Day1()
+]
 
 @main
 struct AdventOfCode: ParsableCommand {
