@@ -1,7 +1,8 @@
 import ArgumentParser
 
 let days: [DailySolvable] = [
-    Day1()
+    Day1(),
+    Day2()
 ]
 
 @main
