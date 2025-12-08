@@ -6,7 +6,8 @@ let days: [DailySolvable] = [
     Day3(),
     Day4(),
     Day5(),
-    Day6()
+    Day6(),
+    Day7()
 ]
 
 @main
